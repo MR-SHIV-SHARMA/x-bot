@@ -1,0 +1,19 @@
+{
+  "name": "x_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "request": "^2.88.2",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.19.0",
+    "twitter-v2": "^1.1.0"
+  }
+}
